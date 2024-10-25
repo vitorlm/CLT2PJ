@@ -1,0 +1,14 @@
+{
+  "tabelas_simples": [
+    {
+      "ano": 2024,
+      "faixas": [
+        { "limite": 180000, "aliquota": 0.06 },
+        { "limite": 360000, "aliquota": 0.112 },
+        { "limite": 720000, "aliquota": 0.135 },
+        { "limite": 1800000, "aliquota": 0.155 },
+        { "limite": 3600000, "aliquota": 0.18 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+black==24.8.0
+flake8==7.1.1
+isort==5.13.2
+logging==0.4.9.6
+pathspec==0.12.1
+pycodestyle==2.12.1
+pyflakes==3.2.0
+python-dotenv==1.0.1

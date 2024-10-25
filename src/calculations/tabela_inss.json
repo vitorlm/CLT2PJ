@@ -1,0 +1,14 @@
+{
+  "tabelas_inss": [
+    {
+      "ano": 2024,
+      "teto": 877.24,
+      "faixas": [
+        { "limite": 1320.0, "aliquota": 0.075 },
+        { "limite": 2571.29, "aliquota": 0.09 },
+        { "limite": 3856.94, "aliquota": 0.12 },
+        { "limite": "inf", "aliquota": 0.14 }
+      ]
+    }
+  ]
+}

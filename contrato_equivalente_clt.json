@@ -1,0 +1,18 @@
+{
+  "ano_referencia": 2024,
+  "dependentes": 1,
+  "tipo_contrato": "clt",
+  "salario_bruto": 27862.8,
+  "outros_beneficios": [
+    { "nome": "Auxílio Home Office", "valor": 160 },
+    { "nome": "Auxílio Creche", "valor": 607 },
+    { "nome": "Vale Alimentacao", "valor": 880 }
+  ],
+  "descontos": [{ "nome": "Vale Alimentacao", "valor": 66 }],
+  "descontos_pj": [
+    { "nome": "Plano de Saúde", "valor": 1200 },
+    { "nome": "Contabilidade", "valor": 400 }
+  ],
+  "pensao_alimenticia": 0,
+  "regime_tributario": "simples"
+}

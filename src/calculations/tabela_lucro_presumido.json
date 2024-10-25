@@ -1,0 +1,14 @@
+{
+  "tabelas_lucro_presumido": [
+    {
+      "ano": 2024,
+      "base_lucro_presumido": 0.32,
+      "aliquotas": [
+        { "tipo": "irpj", "aliquota": 0.15 },
+        { "tipo": "csll", "aliquota": 0.09 },
+        { "tipo": "pis_cofins", "aliquota": 0.0365 },
+        { "tipo": "iss", "aliquota": 0.04 }
+      ]
+    }
+  ]
+}
